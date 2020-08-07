@@ -4,6 +4,11 @@ a sú licencované (i guess) pod licenciou Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0
 International License, rovnako, ako anglický originál hry.
 
+You can learn more about Creative Commons at
+CreativeCommons.org. (The license is available
+at CreativeCommons.org/licenses/by-nc-sa/4.0/
+legalcode).
+
 ---------------------------------------------------
 
 Secret Hitler was created by Mike Boxleiter,
